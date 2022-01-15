@@ -620,11 +620,6 @@
       (net 7 "Net-(CN2-Pad4)"))
     (pad 16 thru_hole circle (at -8.89 -6.35) (size 2 2) (drill 0.9) (layers *.Cu *.Mask)
       (net 2 +12V))
-    (model ${KIPRJMOD}/prusa_mk2_ext_drv.3dshapes/SilentStepStick-TMC2209_v20.step
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module prusa_mk2_ext_drv:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 61E3ED8B)
