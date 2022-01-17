@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"CN4";"Molex_70553_4P";1;"Y_MOT";;;
+2;"CP1";"CP_Radial_D6.3mm_P2.50mm";1;"47u/35V";;;
+3;"J1";"JP_2.54mm_3PIN";1;"DirRevX";;;
+4;"MD1";"STEPSTICK";1;"TMC2209_X";;;
+5;"MD2";"STEPSTICK";1;"TMC2209_Y";;;
+6;"Q1,Q2";"TO-92_Inline_Wide";2;"BC546";;;
+7;"R2,R6,R1,R5,R13,R14";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";6;"10k";;;
+8;"R4,R11,R3,R10,R12,R8,R7,R9";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";8;"100k";;;
+9;"REF**,REF**,REF**,REF**";"MountingHole_4.3mm_M4_Pad_Via";4;"MountingHole_4.3mm_M4_Pad_Via";;;
+10;"J4";"JP_2.54mm_2x3PIN";1;"CfgY";;;
+11;"J2";"JP_2.54mm_3PIN";1;"DirRevY";;;
+12;"J3";"JP_2.54mm_2x3PIN";1;"CfgX";;;
+13;"CP3,CP2";"CP_Radial_D8.0mm_P3.50mm";2;"220u/35V";;;
+14;"C2,C4,C1,C3";"C_Rect_L7_W2.5_P5";4;"100n/35V";;;
+15;"CN3";"Molex_70553_4P";1;"X_MOT";;;
+16;"CN2";"IDC_Header_Straight_12pins";1;"MiniRambo";;;
+17;"CN1";"Fan_Pin_Header_Straight_1x03";1;"FAN";;;
